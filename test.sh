@@ -1,0 +1,1 @@
+uvicorn alert:app --reload
